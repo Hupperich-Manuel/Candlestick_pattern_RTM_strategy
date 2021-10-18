@@ -1,5 +1,5 @@
 ## CANDLESTICK PATTERN WITH REGRESSION TO THE MEAN STRATEGY
-[Imgage](Fotos/0.jpeg)
+![Imgage](Fotos/0.jpeg)
 
 There are almost a million trading startegies out there that intend to outperform the market. Wether it is through Fibonacci numbers, or RSI graphs, things get more and more complicated when someones deepens into these topics. However, when it comes to technical analysis, it has been seen that a simpler strategy normally cuts a better figure.
 
