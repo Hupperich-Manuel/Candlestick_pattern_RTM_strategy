@@ -1,8 +1,8 @@
-## Manuel
+## CANDLESTICK PATTERN WITH REGRESSION TO THE MEAN STRATEGY
 
-You can use the [editor on GitHub](https://github.com/Hupperich-Manuel/Candlestick_pattern_RTM_strategy/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+There are almost a million trading startegies out there that intend to outperform the market. Wether it is through Fibonacci numbers, or RSI graphs, things get more and more complicated when someones deepens into these topics. However, when it comes to technical analysis, it has been seen that a simpler strategy normally cuts a better figure.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In this blog, I intend to deliver this message. Sometimes in stock market predicions, one can profit more relying on lesser indicators, and get the most out of those.
 
 ### CANDLESTICK PATTERN WITH REGRESSION TO THE MEAN STRATEGY
 
