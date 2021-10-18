@@ -7,7 +7,7 @@ In this blog, I intend to deliver this message. Sometimes in stock market predic
 
 ### CANDLESTICK PATTERN WITH REGRESSION TO THE MEAN STRATEGY
 
-
+![Image](https://github.com/Hupperich-Manuel/Candlestick_pattern_RTM_strategy/blob/71c85118ff5dade564d41434e18a2939063aba87/Fotos/1.png)
 
 ```markdown
 Syntax highlighted code block
@@ -25,6 +25,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 ![Image](https://github.com/Hupperich-Manuel/Candlestick_pattern_RTM_strategy/blob/71c85118ff5dade564d41434e18a2939063aba87/Fotos/1.png)
+
 [Link](url) and ![Image](src)
 ```
 
