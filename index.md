@@ -9,7 +9,7 @@ In this blog, I intend to deliver this message. Sometimes in stock market predic
 
 ![Image](https://github.com/Hupperich-Manuel/Candlestick_pattern_RTM_strategy/blob/71c85118ff5dade564d41434e18a2939063aba87/Fotos/1.png)
 
-```markdown
+```python
 
 import numpy as np
 import pandas as pd
@@ -23,7 +23,7 @@ import datetime
 
 Manuel
 
-```markdown
+```python
 class organize_stocks:
     
     def __init__(self, data, start, end, ticker):
