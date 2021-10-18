@@ -1,5 +1,5 @@
 ## CANDLESTICK PATTERN WITH REGRESSION TO THE MEAN STRATEGY
-![Imgage](https://github.com/Hupperich-Manuel/Candlestick_pattern_RTM_strategy/blob/71c85118ff5dade564d41434e18a2939063aba87/Fotos/0.jpeg)
+
 
 There are almost a million trading startegies out there that intend to outperform the market. Wether it is through Fibonacci numbers, or RSI graphs, things get more and more complicated when someones deepens into these topics. However, when it comes to technical analysis, it has been seen that a simpler strategy normally cuts a better figure.
 
@@ -24,6 +24,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
+![Imgage](https://github.com/Hupperich-Manuel/Candlestick_pattern_RTM_strategy/blob/71c85118ff5dade564d41434e18a2939063aba87/Fotos/0.jpeg)
 [Link](url) and ![Image](src)
 ```
 
